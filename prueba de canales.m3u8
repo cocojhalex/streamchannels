@@ -1,0 +1,279 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="CINE | LIFETIME HD" tvg-logo="" group-title="CINEMA",CINE | LIFETIME HD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/585317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INF | DISNEY CHANNEL HD ING" tvg-logo="" group-title="INFANTILES",INF | DISNEY CHANNEL HD ING
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/569086.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PAW PATROL" tvg-logo="https://1.bp.blogspot.com/-pnPkIa32QD4/XrkGirBhr2I/AAAAAAAAB70/Azfjx182F2IpYj8FlxNo7B7tJsF1qsB_gCLcBGAsYHQ/s200/the%2Bgood%2Bdoctor.png" group-title="24/7",24/7 PAW PATROL
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/358976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MEX | El Nu9ve (UHD)" tvg-logo="" group-title="MEXICO",MEX | El Nu9ve (UHD)
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/243055.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR: TV SANTACRUZ HD (DRT)" tvg-logo="https://scontent-lga3-2.xx.fbcdn.net/v/t39.30808-6/365862374_713842570757654_5759851894320284803_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=MYKfRzkoJ1wQ7kNvgEDlfS8&_nc_ht=scontent-lga3-2.xx&oh=00_AYD4aXb5bRHEwpSnvSdvJZjVUMm227NQ1-QsQlb8qmvU2g&oe=6661D327" group-title="COSTA RICA",CR: TV SANTACRUZ HD (DRT)
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/565716.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR: COTO BRUS TV HD OP2" tvg-logo="https://image.roku.com/developer_channels/prod/a4ed367c69c23110d458a332af95be0be64566f288ccb5f261689344e6ba5e0d.png" group-title="COSTA RICA",CR: COTO BRUS TV HD OP2
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/565717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR | CANAL 6 HD (D)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Canal6CR.png/800px-Canal6CR.png" group-title="COSTA RICA",CR | CANAL 6 HD (D)
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/601613.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR | TV ZURQUI HD" tvg-logo="" group-title="COSTA RICA",CR | TV ZURQUI HD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/601614.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UCL (720p)" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="URUGUAY",UCL (720p)
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/375640.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | ABC NEW YORK" tvg-logo="https://m.media-amazon.com/images/I/41YfI1DpHhL.png" group-title="USA",USA | ABC NEW YORK
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/575102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MARIA VISION" tvg-logo="" group-title="RELIGIOSOS TV",MARIA VISION
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/243053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Crime" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="UNIVERSAL PACK",Universal Crime
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/237083.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | MSG HD" tvg-logo="https://play-lh.googleusercontent.com/655iqu9TtE2bb8vt-Z8DThVWMlFh9r3NLfm6IwA7XltWpELgH2Lt0spmJw4Yo5kTTpY=w480-h960-rw" group-title="⚽USA SPORTS⚽",USA | MSG HD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/602809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CR | CBTV2 SPORT HD" tvg-logo="https://play-lh.googleusercontent.com/XN1DevVYDHl1jdi3kn6nfz9u-eJXzN0j3ZCJmgEjSryuNxBn_4KpKE7EpVnwauEX6Vk" group-title="|| LIG⚽ TICA ||",CR | CBTV2 SPORT HD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/584840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX SPORT 2 " tvg-logo="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_2/v1491791278/hd479yjpf0wjdb7t3q0s.jpg" group-title="⚽USA SPORTS⚽",USA | FOX SPORT 2 
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/602812.m3u8
+#EXTINF:-1 tvg-id="DirectvSports.co" tvg-name="PER: A La Cocina TV (EXCLUSIVO) UHD" tvg-logo="https://glassalmanac.com/wp-content/uploads/2014/11/canal-cocina-logo-750.png" group-title="PERU",PER: A La Cocina TV (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/218214.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: America TV (Senal Movil) UHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="PERU",PER: America TV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/215074.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: America TV (Senal SD) UHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="PERU",PER: America TV (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99524.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: America TV (Senal HD) UHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="PERU",PER: America TV (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99642.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: America TV (1920) (EXCLUSIVO) UHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="PERU",PER: America TV (1920) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/380766.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PER: America TV (1920) (Senal Local EXCLUSIVO) UHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="PERU",PER: America TV (1920) (Senal Local EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/236602.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: America TV (EXCLUSIVO) UHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/america_television_peru-mediano.png" group-title="PERU",PER: America TV (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Asiri TV UHD" tvg-logo="https://www31.online-convert.com/dl/web7/download-file/85972eea-f0fd-4d21-9528-5d50393c85f9/th_bing_com-OIP.png" group-title="PERU",PER: Asiri TV UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/220779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: A Uno | UHD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/90/Canal_Uno_2004-2005.png" group-title="PERU",PER: A Uno | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/393982.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PER: ATV (Senal Movil) UHD" tvg-logo="https://seeklogo.com/images/A/atv-peru-2016-logo-F524B548C5-seeklogo.com.png" group-title="PERU",PER: ATV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/215076.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PER: ATV (Senal SD) UHD" tvg-logo="https://seeklogo.com/images/A/atv-peru-2016-logo-F524B548C5-seeklogo.com.png" group-title="PERU",PER: ATV (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99645.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PER: ATV (Senal HD) UHD" tvg-logo="https://seeklogo.com/images/A/atv-peru-2016-logo-F524B548C5-seeklogo.com.png" group-title="PERU",PER: ATV (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99644.m3u8
+#EXTINF:-1 tvg-id="atv.pe" tvg-name="PER: ATV (1920) | (Exclusivo) UHD " tvg-logo="https://seeklogo.com/images/A/atv-peru-2016-logo-F524B548C5-seeklogo.com.png" group-title="PERU",PER: ATV (1920) | (Exclusivo) UHD 
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99643.m3u8
+#EXTINF:-1 tvg-id="atvplus.pe" tvg-name="PER: ATV + (Senal Movil) UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/ATV_Logo_2018.png" group-title="PERU",PER: ATV + (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/49790.m3u8
+#EXTINF:-1 tvg-id="atvplus.pe" tvg-name="PER: ATV + (Senal SD) UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/ATV_Logo_2018.png" group-title="PERU",PER: ATV + (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99647.m3u8
+#EXTINF:-1 tvg-id="atvplus.pe" tvg-name="PER: ATV + UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9f/ATV_Logo_2018.png" group-title="PERU",PER: ATV + UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99646.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: ATV Sur (Senal HD) UHD" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/atv-sur-en-vivo-1337.png" group-title="PERU",PER: ATV Sur (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Autentica TV (Senal HD) UHD" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0efEDcY2_kCPtJnZTd_JNzRwaLFePGVN5XbNCCJgQDsLF1b4Zd08x50Xo249Uvf2sMc2ylXaEL4e6MchejbJ6yXY3OQGk88aBHugvEsh57-Zt9XPsaUM4x1b8fLCv9AgfuQBQrQHknnC7-g22HNs02XI5PMX3QXwPbNf10nHFy6gs-w_zjIzT-A-l/w1200-h630-p-k-no-nu/logo-web.png" group-title="PERU",PER: Autentica TV (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Bethel (Senal HD) UHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Bethel_TV_2011.png" group-title="PERU",PER: Bethel (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/239478.m3u8
+#EXTINF:-1 tvg-id="bethel.pe" tvg-name="PER: BHTV (EXCLUSIVO) UHD" tvg-logo="https://cablego.com.pe/cache/logos256/BHTV.png" group-title="PERU",PER: BHTV (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Canal JN19 (EXCLUSIVO) UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Canal_J_2018.png" group-title="PERU",PER: Canal JN19 (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/212581.m3u8
+#EXTINF:-1 tvg-id="canaln.pe" tvg-name="PER: Canal N (Senal SD) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_N.png" group-title="PERU",PER: Canal N (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99651.m3u8
+#EXTINF:-1 tvg-id="canaln.pe" tvg-name="PER: Canal N (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="PERU",PER: Canal N (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99650.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Canal N | 1920 | (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Canal_N_2022.png" group-title="PERU",PER: Canal N | 1920 | (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/271213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Conecta2 TV UHD" tvg-logo="https://conecta2peru.com/wp-content/uploads/2020/04/logo.png" group-title="PERU",PER: Conecta2 TV UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99649.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Congreso TV | (Exclusivo) UHD" tvg-logo="https://www.congreso.gob.pe/Interface/landing/img/tv.png" group-title="PERU",PER: Congreso TV | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/277161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Cultura 24 UHD" tvg-logo="https://seeklogo.com/images/A/atv-peru-2016-logo-F524B548C5-seeklogo.com.png" group-title="PERU",PER: Cultura 24 UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99653.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: D-irect.v S-port.s Peru (1980) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: D-irect.v S-port.s Peru (1980) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99654.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: D-irect.v S-port.s 2 Peru (1920) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: D-irect.v S-port.s 2 Peru (1920) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99656.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: D-irect.v S-port.s + Peru (1280) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: D-irect.v S-port.s + Peru (1280) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99657.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: D-irect.v S-port.s + Peru (1920) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: D-irect.v S-port.s + Peru (1920) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/49786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Es-pn Peru (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="PERU",PER: Es-pn Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99658.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Es-pn 2 Peru (EXCLUSIVO) UHD" tvg-logo="https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png" group-title="PERU",PER: Es-pn 2 Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99659.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Es-pn 3 Peru (EXCLUSIVO) UHD" tvg-logo="https://wmub.tv/wp-content/uploads/sites/50/2021/06/ESPN-3-logo-transparent.png" group-title="PERU",PER: Es-pn 3 Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99660.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Es-pn 4 Peru (EXCLUSIVO) UHD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN4.png.eb49e6eecab0c1a9e2c758279e2a6784.png" group-title="PERU",PER: Es-pn 4 Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/235410.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Es-pn 5 Peru (EXCLUSIVO) UHD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN5.png.ea2cd93464664aceb6401ba5dcbf1f3a.png" group-title="PERU",PER: Es-pn 5 Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99663.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Es-pn 6 Peru (EXCLUSIVO) UHD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN6.png.5952c88e89550d75dce469022802382d.png" group-title="PERU",PER: Es-pn 6 Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99665.m3u8
+#EXTINF:-1 tvg-id="DFOXS2E" tvg-name="PER: Es-pn 7 Peru (EXCLUSIVO) UHD" tvg-logo="https://forounivers.com/uploads/monthly_2024_02/large.ESPN7.png.375178ffb0546e7726739cc46c854e09.png" group-title="PERU",PER: Es-pn 7 Peru (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99664.m3u8
+#EXTINF:-1 tvg-id="exitosa.pe" tvg-name="PER: Exitosa TV (Senal Movil) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="PERU",PER: Exitosa TV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/172755.m3u8
+#EXTINF:-1 tvg-id="exitosa.pe" tvg-name="PER: Exitosa TV (Senal SD) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="PERU",PER: Exitosa TV (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99662.m3u8
+#EXTINF:-1 tvg-id="exitosa.pe" tvg-name="PER: Exitosa TV (Senal HD) (1280) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="PERU",PER: Exitosa TV (Senal HD) (1280) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99661.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Exitosa TV (Senal UHD) (1920) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png" group-title="PERU",PER: Exitosa TV (Senal UHD) (1920) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/374919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Fuego TV UHD" tvg-logo="https://n7r3b9.p3cdn1.secureserver.net/wp-content/uploads/2018/11/cropped-cropped-ARREGLO-1-2048x931.png" group-title="PERU",PER: Fuego TV UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Global TV (Senal Movil) UHD" tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",PER: Global TV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/173213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Global TV (Senal SD) UHD" tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",PER: Global TV (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/106227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Global TV (1280) UHD" tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",PER: Global TV (1280) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99666.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Global TV (1920) UHD" tvg-logo="https://logodix.com/logo/738798.png" group-title="PERU",PER: Global TV (1920) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93953.m3u8
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="PER: G.⚽.L Peru | 1280 | (Senal HD) (EXCLUSIVO) UHD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1200px-Gol_Per%C3%BA_2019.svg.png" group-title="PERU",PER: G.⚽.L Peru | 1280 | (Senal HD) (EXCLUSIVO) UHD 
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99668.m3u8
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="PER: G.⚽.L Peru (Senal Movil) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1200px-Gol_Per%C3%BA_2019.svg.png" group-title="PERU",PER: G.⚽.L Peru (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/215077.m3u8
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="PER: G.⚽.L Peru | 1920 | (Senal HD) (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/1200px-Gol_Per%C3%BA_2019.svg.png" group-title="PERU",PER: G.⚽.L Peru | 1920 | (Senal HD) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99667.m3u8
+#EXTINF:-1 tvg-id="golperu.pe" tvg-name="PER: G.⚽.L-TV (1920) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="PERU",PER: G.⚽.L-TV (1920) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99669.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: G.⚽.L (SD) (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="PERU",PER: G.⚽.L (SD) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/384257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: G.⚽.L (HD) (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png" group-title="PERU",PER: G.⚽.L (HD) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/264561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: I-PE UHD" tvg-logo="https://www.canalipe.tv/sites/default/themes/concise_drupal//static/media/ipe-blanco.png" group-title="PERU",PER: I-PE UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/293551.m3u8
+#EXTINF:-1 tvg-id="CLVMLB" tvg-name="PER: Justicia TV (EXCLUSIVO) | UHD" tvg-logo="s:1:/images/3538ab9a7f8ec18e736aac0e088329d8.png" group-title="PERU",PER: Justicia TV (EXCLUSIVO) | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Karibena TV (Senal SD) UHD" tvg-logo="https://peru.mom-gmr.org/typo3temp/_processed_/b/6/csm_2029-205_import_3aa2852a65.png" group-title="PERU",PER: Karibena TV (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99671.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Karibena TV (Senal HD) UHD" tvg-logo="https://peru.mom-gmr.org/typo3temp/_processed_/b/6/csm_2029-205_import_3aa2852a65.png" group-title="PERU",PER: Karibena TV (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/215079.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: La Tele (Senal SD) UHD" tvg-logo="https://vignette.wikia.nocookie.net/fictionaltvstations/images/4/4c/LaTele_logo.png" group-title="PERU",PER: La Tele (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/211394.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: La Tele (Senal HD) UHD" tvg-logo="https://vignette.wikia.nocookie.net/fictionaltvstations/images/4/4c/LaTele_logo.png" group-title="PERU",PER: La Tele (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/439391.m3u8
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PER: Latina (Senal Movil) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU",PER: Latina (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/215078.m3u8
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PER: Latina (Senal SD) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU",PER: Latina (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Latina (Senal 1280) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU",PER: Latina (Senal 1280) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/393213.m3u8
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PER: Latina (Senal HD) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU",PER: Latina (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99674.m3u8
+#EXTINF:-1 tvg-id="frecuencialatina.pe" tvg-name="PER: Latina (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logotipo_de_Latina_Televisi%C3%B3n.svg/480px-Logotipo_de_Latina_Televisi%C3%B3n.svg.png" group-title="PERU",PER: Latina (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99673.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Latina Digital (Senal HD) UHD" tvg-logo="https://latinanoticias.pe/wp-content/themes/genesis-latina-noticias/img/logo-head-n.png" group-title="PERU",PER: Latina Digital (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/571432.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: L-1¹ M.A.X (1280) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: L-1¹ M.A.X (1280) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/103257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: L-1 M.A.X | --3H | (Exclusivo) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU -3 HORAS",PER: L-1 M.A.X | --3H | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/375283.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: L-1¹ (1280) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: L-1¹ (1280) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: L-1¹ | (1920) (EXCLUSIVO) UHD" tvg-logo="https://images.gog-statics.com/8455b20343eea6dc00e5b844f68e3b55370dc8e389ae8a762f343f1c6227b65a_product_card_v2_logo_480x285.png" group-title="PERU",PER: L-1¹ | (1920) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99655.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: M.ovista.r D.eporte.s (1920) (EXCLUSIVO) UHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PER: M.ovista.r D.eporte.s (1920) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99677.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: M.ovista.r D.eporte.s (1280) (EXCLUSIVO) UHD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PER: M.ovista.r D.eporte.s (1280) (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99678.m3u8
+#EXTINF:-1 tvg-id="americatelevision.pe" tvg-name="PER: M + Life SD (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="PERU",PER: M + Life SD (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/215080.m3u8
+#EXTINF:-1 tvg-id="plustvcanal6.pe" tvg-name="PER: M + Life HD (EXCLUSIVO) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="PERU",PER: M + Life HD (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99679.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Nativa TV (Senal Movil) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",PER: Nativa TV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/448007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Nativa TV (SD) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",PER: Nativa TV (SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99672.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Nativa TV (1280) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="PERU",PER: Nativa TV (1280) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/49783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Ovacion TV UHD" tvg-logo="https://appnew.megainfoapp.com/files/1/ovaciontv.png" group-title="PERU",PER: Ovacion TV UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/230600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Panamericana TV (Senal 1920) UHD" tvg-logo="https://panamericana.pe/imagenes/site/logo_2014.png" group-title="PERU",PER: Panamericana TV (Senal 1920) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/394709.m3u8
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="PER: Panamericana TV (Senal HD) UHD" tvg-logo="https://panamericana.pe/imagenes/site/logo_2014.png" group-title="PERU",PER: Panamericana TV (Senal HD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99680.m3u8
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="PER: Panamericana TV (Senal SD) UHD" tvg-logo="https://panamericana.pe/imagenes/site/logo_2014.png" group-title="PERU",PER: Panamericana TV (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99681.m3u8
+#EXTINF:-1 tvg-id="panamericanatv.pe" tvg-name="PER: Panamericana TV (Senal Movil) UHD" tvg-logo="https://panamericana.pe/imagenes/site/logo_2014.png" group-title="PERU",PER: Panamericana TV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99682.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: PBO TV (EXCLUSIVO)(1280) UHD" tvg-logo="https://www49.online-convert.com/dl/web7/download-file/0053981a-bc7a-43cf-af47-f5676c2289b2/unnamed.png" group-title="PERU",PER: PBO TV (EXCLUSIVO)(1280) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/211293.m3u8
+#EXTINF:-1 tvg-id="perumagico.pe" tvg-name="PER: Peru Magico UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Peru_Magico_2016.png" group-title="PERU",PER: Peru Magico UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99683.m3u8
+#EXTINF:-1 tvg-id="rppnoticias.pe" tvg-name="PER: RPP TV (Senal SD)" tvg-logo="https://static.semrush.com/power-pages/media/favicons/rpp-pe-favicon-f6d4fc0c.png" group-title="PERU",PER: RPP TV (Senal SD)
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99685.m3u8
+#EXTINF:-1 tvg-id="rppnoticias.pe" tvg-name="PER: RPP TV | 1280 | (EXCLUSIVO) UHD" tvg-logo="https://static.semrush.com/power-pages/media/favicons/rpp-pe-favicon-f6d4fc0c.png" group-title="PERU",PER: RPP TV | 1280 | (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99684.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: RPP TV | 1920 | (EXCLUSIVO) UHD" tvg-logo="https://static.semrush.com/power-pages/media/favicons/rpp-pe-favicon-f6d4fc0c.png" group-title="PERU",PER: RPP TV | 1920 | (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/127031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Trivu TV (EXCLUSIVO) UHD" tvg-logo="https://s73-hzde.freeconvert.com/task/660d72e9a5bb86d3a2ca2ea7/LOGO_02.png" group-title="PERU",PER: Trivu TV (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/219885.m3u8
+#EXTINF:-1 tvg-id="tvperu.pe" tvg-name="PER: TV Peru (Senal 480) | (Exclusivo) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png/108px-TVPer%C3%BA_-_Logo_2012_V1.png" group-title="PERU",PER: TV Peru (Senal 480) | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99687.m3u8
+#EXTINF:-1 tvg-id="tvperu.pe" tvg-name="PER: TV Peru (Senal 1280) | (Exclusivo)UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png/108px-TVPer%C3%BA_-_Logo_2012_V1.png" group-title="PERU",PER: TV Peru (Senal 1280) | (Exclusivo)UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99686.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: TV Peru (Senal 1920) | (Exclusivo) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TVPer%C3%BA_-_Logo_2012_V1.png/108px-TVPer%C3%BA_-_Logo_2012_V1.png" group-title="PERU",PER: TV Peru (Senal 1920) | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/375737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: TV Peru 7.3 Noticias (Senal SD) UHD" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d35c969bf839d00013ab2dc/1654724091726-CQO3EWNDWVPIV59WI8X9/tv-peru-logo.png" group-title="PERU",PER: TV Peru 7.3 Noticias (Senal SD) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: TV Peru Internacional UHD" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-peru-internacional-pe.png" group-title="PERU",PER: TV Peru Internacional UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/239299.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Uranio Television UHD" tvg-logo="https://uraniotv.pe/wp-content/uploads/2021/11/logo-300x95.png" group-title="PERU",PER: Uranio Television UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/377149.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: USMPTV UHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/USMP_TV_(Logo).png" group-title="PERU",PER: USMPTV UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99648.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Via Alto Mayo TV | UHD" tvg-logo="https://viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="PERU",PER: Via Alto Mayo TV | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/380795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Vinilos Tv (Controversia TV) UHD" tvg-logo="https://eja.tv/img/eja_64.png" group-title="PERU",PER: Vinilos Tv (Controversia TV) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/375162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Viva TV (EXCLUSIVO) UHD" tvg-logo="https://i.pinimg.com/originals/c4/df/0c/c4df0cf014b8556391eed715ed95a17b.png" group-title="PERU",PER: Viva TV (EXCLUSIVO) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/207045.m3u8
+#EXTINF:-1 tvg-id="IPEA" tvg-name="PER: Willax TV (Senal Movil) UHD" tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="PERU",PER: Willax TV (Senal Movil) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99670.m3u8
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="PER: Willax TV (Senal SD)" tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="PERU",PER: Willax TV (Senal SD)
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Willax TV (Senal 1920) UHD" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="PERU",PER: Willax TV (Senal 1920) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/289350.m3u8
+#EXTINF:-1 tvg-id="willax.pe" tvg-name="PER: Willax TV UHD" tvg-logo="https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png" group-title="PERU",PER: Willax TV UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/99690.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PER: Zap-ping Deportes (Peru) | ▶️ (EXCLUSIVO) | UHD♦️" tvg-logo="https://cdn.teachercreated.com/20180323/covers/900sqp/4086.png" group-title="PERU DEPORTES",PER: Zap-ping Deportes (Peru) | ▶️ (EXCLUSIVO) | UHD♦️
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/384000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evento :|| ST⭐R➕ 1 | Senal Exclusiva | UHD" tvg-logo="https://hsfootballtime.com/wp-content/uploads/2024/02/Outer-Space-YouTube-Thumbnail-10.png" group-title=" ☆D➕(EVENTOS)☆",Evento :|| ST⭐R➕ 1 | Senal Exclusiva | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/107324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evento :|| ST⭐R➕ 2 | Senal Exclusiva | UHD" tvg-logo="https://hsfootballtime.com/wp-content/uploads/2024/02/Outer-Space-YouTube-Thumbnail-10.png" group-title=" ☆D➕(EVENTOS)☆",Evento :|| ST⭐R➕ 2 | Senal Exclusiva | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/376232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evento :|| ST⭐R➕ 3 | Senal Exclusiva | UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/640px-Disney%2B_2024.svg.png" group-title=" ☆D➕(EVENTOS)☆",Evento :|| ST⭐R➕ 3 | Senal Exclusiva | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/383996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evento :|| ST⭐R➕ 4 | Senal Exclusiva | UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Disney%2B_2024.svg/640px-Disney%2B_2024.svg.png" group-title=" ☆D➕(EVENTOS)☆",Evento :|| ST⭐R➕ 4 | Senal Exclusiva | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/383997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Uno (SD) (Exclusivo) UHD" tvg-logo="https://360radio.com.co/wp-content/uploads/2017/08/CanalUno.png" group-title="COLOMBIA",CO: Canal Uno (SD) (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/397955.m3u8
+#EXTINF:-1 tvg-id="CAD1HD" tvg-name="CO: Canal Uno (1920) (Exclusivo) UHD" tvg-logo="https://logosandtypes.com/wp-content/uploads/2022/03/Canal-1.png" group-title="COLOMBIA",CO: Canal Uno (1920) (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93754.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Canal Trece (Exclusivo) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="COLOMBIA",CO: Canal Trece (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/375775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Capital TV (Exclusivo) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2020_Canal_Capital_logo.svg/1200px-2020_Canal_Capital_logo.svg.png" group-title="COLOMBIA",CO: Capital TV (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/374895.m3u8
+#EXTINF:-1 tvg-id="CARAHD" tvg-name="CO: Caracol (1280) | (Exclusivo) UHD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4a3278e/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png" group-title="COLOMBIA",CO: Caracol (1280) | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol (1920) | (Exclusivo) UHD" tvg-logo="https://caracoltv.brightspotcdn.com/dims4/default/4a3278e/2147483647/strip/true/crop/2048x2048+0+0/resize/120x120!/quality/90/?url=http%3A%2F%2Fcaracol-brightspot.s3.us-west-2.amazonaws.com%2Fe0%2F4f%2Fd0ec59d74f2ba896bc9638e43b9c%2Flogo-ctv.png" group-title="COLOMBIA",CO: Caracol (1920) | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/384101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Caracol 2 (1920) | (Exclusivo) UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Caracol_HD2_2017.png/1200px-Caracol_HD2_2017.png" group-title="COLOMBIA",CO: Caracol 2 (1920) | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/393983.m3u8
+#EXTINF:-1 tvg-id="CARAIHD" tvg-name="CO: Caracol Internacional |" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e4/Caracol_Internacional_2015.png" group-title="COLOMBIA",CO: Caracol Internacional |
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: City TV (Exclusivo) UHD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/citytv-logo-png-transparent.png" group-title="COLOMBIA",CO: City TV (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/98130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: D.irectv Sport.s 2 Colombia (1920) (Exclusivo) UHD" tvg-logo="https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png" group-title="COLOMBIA",CO: D.irectv Sport.s 2 Colombia (1920) (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/124625.m3u8
+#EXTINF:-1 tvg-id="CTIEMPO" tvg-name="CO: El Tiempo (Exclusivo) UHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/El-Tiempo-TV-en-vivo-Online.png" group-title="COLOMBIA",CO: El Tiempo (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93773.m3u8
+#EXTINF:-1 tvg-id="NTN24E" tvg-name="CO: NTN24 Noticias (Exclusivo) UHD" tvg-logo="https://iconape.com/wp-content/files/bh/118863/png/NTN24_logo.png" group-title="COLOMBIA",CO: NTN24 Noticias (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93770.m3u8
+#EXTINF:-1 tvg-id="RCNTVHD" tvg-name="CO: RCN Colombia | (Exclusivo) UHD" tvg-logo="https://imagenes.canalrcn.com/ImgCanal/logoFooter/logo__canal__footer_2023.png" group-title="COLOMBIA",CO: RCN Colombia | (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/90151.m3u8
+#EXTINF:-1 tvg-id="SENALHD" tvg-name="CO: Senal Colombia (Exclusivo) UHD" tvg-logo="https://iconape.com/wp-content/files/yy/364551/png/364551.png" group-title="COLOMBIA",CO: Senal Colombia (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93753.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Teleantoquia (Exclusivo) UHD" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Teleantioquia.png" group-title="COLOMBIA",CO: Teleantoquia (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Tele Caribe (Exclusivo) UHD" tvg-logo="https://seeklogo.com/images/T/telecaribe-colombia-2017-present-logo-F376432F4C-seeklogo.com.png" group-title="COLOMBIA",CO: Tele Caribe (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/374766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Telepacifico (Exclusivo) UHD" tvg-logo="https://telepacifico.com/dev/wp-content/uploads/2022/07/34-de-telepacifico-e1661347288783.png" group-title="COLOMBIA",CO: Telepacifico (Exclusivo) UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/374764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CO: Win Sports + HD (Exclusivo) | UHD" tvg-logo="https://seeklogo.com/images/W/win-sport-logo-CCEF374ECF-seeklogo.com.png" group-title="COLOMBIA",CO: Win Sports + HD (Exclusivo) | UHD
+http://galaxypro.online:8080/live/Emirmatv87/Emirmatv2516/93494.m3u8
