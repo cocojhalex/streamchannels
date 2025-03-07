@@ -142,8 +142,6 @@ http://primexclusive.day:80/1444576/5450985/266706
 http://primexclusive.day:80/1444576/5450985/1063
 #EXTINF:-1 tvg-id="CNNespanol.us" tvg-name="LAT | CNN Español HD" tvg-logo="https://www.logolynx.com/images/logolynx/f4/f4b47302a96af7e1978dc6811aa57104.png" group-title="LAT NOTICIAS",LAT | CNN Español HD
 http://primexclusive.day:80/1444576/5450985/310
-#EXTINF:-1 tvg-id="CNNinternational.us" tvg-name="LAT | CNN Internacional HD" tvg-logo="https://img1.hulu.com/user/v3/artwork/8e5dc4b3-4fa9-47c5-a402-0f87e9c7c64a?base_image_bucket_name=image_manager&base_image=ed46214d-2345-48d4-81db-8e50b5b673e7&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D" group-title="LAT NOTICIAS",LAT | CNN Internacional HD
-http://primexclusive.day:80/1444576/5450985/26940
 #EXTINF:-1 tvg-id="" tvg-name="LAT | DW Noticias HD" tvg-logo="https://i.ibb.co/1GqMGtk/Deutsche-Welle-logo.png" group-title="LAT NOTICIAS",LAT | DW Noticias HD
 http://primexclusive.day:80/1444576/5450985/315
 #EXTINF:-1 tvg-id="FR24ESD" tvg-name="LAT | France 24 en Español UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="LAT NOTICIAS",LAT | France 24 en Español UHD
@@ -696,7 +694,7 @@ http://primexclusive.day:80/1444576/5450985/15663
 http://primexclusive.day:80/1444576/5450985/15662
 #EXTINF:-1 tvg-id="" tvg-name="SV |  Canal 2" tvg-logo="https://cdn.mitvstatic.com/channels/sv_canal-2-nacional_m.png" group-title="EL SALVADOR",SV |  Canal 2
 http://primexclusive.day:80/1444576/5450985/15661
-#EXTINF:-1 tvg-id="" tvg-name="ES | FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="LAT DEPORTES",ES | FDF HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | FDF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/FDF_2012.png" group-title="ESPAÑA",ES | FDF HD
 http://primexclusive.day:80/1444576/5450985/20515
 #EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Deportes UHD℠" tvg-logo="https://image.mypanel.cc/?img=http://swedtv.vip/logos/LAT_mexico/azeca_deportes.png" group-title="LAT DEPORTES",MX | Azteca Deportes UHD℠
 http://primexclusive.day:80/1444576/5450985/239646
@@ -1714,10 +1712,6 @@ http://primexclusive.day:80/1444576/5450985/13490
 http://primexclusive.day:80/1444576/5450985/15694
 #EXTINF:-1 tvg-id="DKNCHL" tvg-name="LAT | Discovery Kids HD" tvg-logo="https://i.ibb.co/YNGQM4F/discovery-kids-lam.png" group-title="LAT INFANTIL",LAT | Discovery Kids HD
 http://primexclusive.day:80/1444576/5450985/15693
-#EXTINF:-1 tvg-id="" tvg-name="LAT | Disney Channel HD" tvg-logo="https://img.hulu.com/user/v3/artwork/2b03315a-d191-402a-a834-3b8d33e5df63?base_image_bucket_name=image_manager&base_image=7937c7dd-2224-4972-a5f6-33c282b81969&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D" group-title="LAT INFANTIL",LAT | Disney Channel HD
-http://primexclusive.day:80/1444576/5450985/15701
-#EXTINF:-1 tvg-id="" tvg-name="LAT | Disney Channel UHD" tvg-logo="https://img.hulu.com/user/v3/artwork/2b03315a-d191-402a-a834-3b8d33e5df63?base_image_bucket_name=image_manager&base_image=7937c7dd-2224-4972-a5f6-33c282b81969&operations=%5B%7B%22resize%22:%22500x500%7Cmax%22%7D,%7B%22format%22:%22png%22%7D,%7B%22trim%22:true%7D%5D" group-title="LAT INFANTIL",LAT | Disney Channel UHD
-http://primexclusive.day:80/1444576/5450985/15703
 #EXTINF:-1 tvg-id="" tvg-name="LAT | Disney Junior (MX)" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISNEYJUNIOR.png" group-title="LAT INFANTIL",LAT | Disney Junior (MX)
 http://primexclusive.day:80/1444576/5450985/15704
 #EXTINF:-1 tvg-id="" tvg-name="LAT | Disney Junior UHD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/INFANTILES/DISNEYJUNIOR.png" group-title="LAT INFANTIL",LAT | Disney Junior UHD
@@ -1746,7 +1740,11 @@ http://primexclusive.day:80/1444576/5450985/13812
 http://primexclusive.day:80/1444576/5450985/13563
 #EXTINF:-1 tvg-id="" tvg-name="LAT |  AMC UHD℠" tvg-logo="https://i.ibb.co/pPSSGMS/amc-us.png" group-title="LAT ENTRETENIMIENTO",LAT |  AMC UHD℠
 http://primexclusive.day:80/1444576/5450985/13820
-#EXTINF:-1 tvg-id="" tvg-name="LAT |  AXN UHD℠" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bffc537d-17b1-465d-ab34-d477223ac142/dcnrfjn-4763cb55-6830-4ec4-b6de-81491c0b160f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JmZmM1MzdkLTE3YjEtNDY1ZC1hYjM0LWQ0NzcyMjNhYzE0MlwvZGNucmZqbi00NzYzY2I1NS02ODMwLTRlYzQtYjZkZS04MTQ5MWMwYjE2MGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.7GSBz7ADt-M1We0EvbvdZE7ieGH1PGxtTWGwcWTMFL8" group-title="LAT ENTRETENIMIENTO",LAT |  AXN UHD℠
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Disney Channel HD" tvg-logo="https://www.dropbox.com/s/jfdmmvr51mrtu32/disney_channel_global.png?dl=1" group-title="LAT INFANTIL",LAT | Disney Channel HD
+http://primexclusive.day:80/1444576/5450985/15701
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Disney Channel UHD" tvg-logo="https://www.dropbox.com/s/jfdmmvr51mrtu32/disney_channel_global.png?dl=1" group-title="LAT INFANTIL",LAT | Disney Channel UHD
+http://primexclusive.day:80/1444576/5450985/15703
+#EXTINF:-1 tvg-id="" tvg-name="LAT |  AXN UHD℠" tvg-logo="https://www.chillglobal.com/images/channels/70-axn-1432161537.jpg" group-title="LAT ENTRETENIMIENTO",LAT |  AXN UHD℠
 http://primexclusive.day:80/1444576/5450985/13825
 #EXTINF:-1 tvg-id="ATRESA" tvg-name="LAT | A3Series HD℠" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZyCGG2RJ6-tp51Jb-nCSWmzXRBsjp7PJ6WS5czOzKvLgyUHmaecPSCV2xmgtq-hMJVwo4t186DxIqdI5n9Nzslc.png" group-title="LAT ENTRETENIMIENTO",LAT | A3Series HD℠
 http://primexclusive.day:80/1444576/5450985/18926
@@ -1908,7 +1906,7 @@ http://primexclusive.day:80/1444576/5450985/18999
 http://primexclusive.day:80/1444576/5450985/18971
 #EXTINF:-1 tvg-id="HBODA" tvg-name="LAT | REMOVE" tvg-logo="https://i.ibb.co/s93BrK8/hbo-plus-lam.png" group-title="LAT PELICULAS CANALES",LAT | REMOVE
 http://primexclusive.day:80/1444576/5450985/18954
-#EXTINF:-1 tvg-id="" tvg-name="LAT | RunTime en Español HD" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/eaeb1f4ef8ed510e8bc2a3fd78510c30/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659563593689_RUNTIME_260x147.png" group-title="LAT PELICULAS CANALES",LAT | RunTime en Español HD
+#EXTINF:-1 tvg-id="" tvg-name="LAT | RunTime en Español HD" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/runtime-espanol.png" group-title="LAT PELICULAS CANALES",LAT | RunTime en Español HD
 http://primexclusive.day:80/1444576/5450985/18864
 #EXTINF:-1 tvg-id="Space.mx" tvg-name="LAT |  Space HD℠" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/500px-SpaceLogo.svg.png" group-title="LAT PELICULAS CANALES",LAT |  Space HD℠
 http://primexclusive.day:80/1444576/5450985/13941
@@ -2132,40 +2130,198 @@ http://primexclusive.day:80/1444576/5450985/320010
 http://primexclusive.day:80/1444576/5450985/26485
 #EXTINF:-1 tvg-id="" tvg-name="CR | Agrotendencia TV UHD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/nj6QEk96JPNr6bYWtvlG7CkX19NdCKzwZdebgs7L4gUpndQ0xn7ACu349UnPfSd-PDK-U46xgPkYYKIGyrxG6lTqOMXyWycVuJcMQ2ZZyb4.png" group-title="COSTA RICA",CR | Agrotendencia TV UHD
 http://primexclusive.day:80/1444576/5450985/26486
-#EXTINF:-1 tvg-id="" tvg-name="CR | Antena Seis HD" tvg-logo="https://image.roku.com/developer_channels/prod/e5aab5e0014212f79dd7593320cb56a3e088ccf65db175dc8b78e3ccfb5f54ab.png" group-title="COSTA RICA",CR | Antena Seis HD
-http://primexclusive.day:80/1444576/5450985/26488
-#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 14 Tv Sur HD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/1ombwvN1zAYKppF72Lw5aoU2ToDh_--50zW6Uep6cikP092xrfb-6AwXcZ8uo5835sO16r9WBSPkRepnUcecLDUapVu2H94JRIbPwCF5Opc.png" group-title="COSTA RICA",CR | Canal 14 Tv Sur HD
-http://primexclusive.day:80/1444576/5450985/26489
-#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 38 Estereo HD" tvg-logo="https://pbs.twimg.com/profile_images/1170449098983563267/BvPsWSrA_400x400.jpg" group-title="COSTA RICA",CR | Canal 38 Estereo HD
-http://primexclusive.day:80/1444576/5450985/26490
-#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 7 Teletica" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/OlKrxfBBdaNWbiLTXpPQXixwS8RIQkdb4v7jKD4Kq1G4tX9MEvRuOE-yFtqVWb6rlmCLEvaYREbgHwi3RwA6VWKBxf1FadbHQ-uAEzPfXm_eBhXUXXySv53tAyw6uIeG-WyOrPkcRi5YbOzNalGwCTUbjgBD86DGJjlOuPd2-NajRiwnGE_9XyM5vuiMBe6v.png" group-title="COSTA RICA",CR | Canal 7 Teletica
-http://primexclusive.day:80/1444576/5450985/26491
-#EXTINF:-1 tvg-id="" tvg-name="CR | Canal 8 Multimedios HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png" group-title="COSTA RICA",CR | Canal 8 Multimedios HD
-http://primexclusive.day:80/1444576/5450985/26492
-#EXTINF:-1 tvg-id="" tvg-name="CR | Colosal HD" tvg-logo="https://cdn.m3u.cl/logo/1053_Colosal_TV.png" group-title="COSTA RICA",CR | Colosal HD
-http://primexclusive.day:80/1444576/5450985/26493
-#EXTINF:-1 tvg-id="" tvg-name="CR | El Sembrador" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png" group-title="COSTA RICA",CR | El Sembrador
-http://primexclusive.day:80/1444576/5450985/26510
-#EXTINF:-1 tvg-id="" tvg-name="CR | FUTV FHD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjyjyTdzB_s7OHVxMqRaXRw09dkOUwdMYS5Pp4yZ36VwdccbxsZPDEd4jCWcHgc8f0gzcaTbUPQl-W3PmwF_HGfg.png" group-title="COSTA RICA",CR | FUTV FHD
-http://primexclusive.day:80/1444576/5450985/26496
-#EXTINF:-1 tvg-id="" tvg-name="CR | FUTV HD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjyjyTdzB_s7OHVxMqRaXRw09dkOUwdMYS5Pp4yZ36VwdccbxsZPDEd4jCWcHgc8f0gzcaTbUPQl-W3PmwF_HGfg.png" group-title="COSTA RICA",CR | FUTV HD
-http://primexclusive.day:80/1444576/5450985/26495
-#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 11" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/COSTARICA/REPRETEL11.png" group-title="COSTA RICA",CR | Repretel 11
-http://primexclusive.day:80/1444576/5450985/26497
-#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 11 HD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/COSTARICA/REPRETEL11.png" group-title="COSTA RICA",CR | Repretel 11 HD
-http://primexclusive.day:80/1444576/5450985/26498
-#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 4 HD" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/COSTARICA/REPRETEL4.png" group-title="COSTA RICA",CR | Repretel 4 HD
-http://primexclusive.day:80/1444576/5450985/26500
-#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 6 HD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0GhUbr69a8F4yui-GBJupEVh9v_Gw1-sGKp_F5S4kq6hYZz2ibco9dHb3VuckJnUi.png" group-title="COSTA RICA",CR | Repretel 6 HD
-http://primexclusive.day:80/1444576/5450985/26501
-#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 6 SD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0GhUbr69a8F4yui-GBJupEVh9v_Gw1-sGKp_F5S4kq6hYZz2ibco9dHb3VuckJnUi.png" group-title="COSTA RICA",CR | Repretel 6 SD
-http://primexclusive.day:80/1444576/5450985/26502
-#EXTINF:-1 tvg-id="" tvg-name="CR | Telered" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/nxmxeh-XjazFGfSOa7shcAxK4G7cvMIH22ENwigPT5o9qWJFZRJe8adPGGSwrtSG2uIrsMqNENUVn4TDLUuWAjXQX5IFw6t2ACdgw6ZgVmtfGw-hTB5Ij9GA-Rt1SPHT.png" group-title="COSTA RICA",CR | Telered
-http://primexclusive.day:80/1444576/5450985/26506
-#EXTINF:-1 tvg-id="" tvg-name="CR | TeleSistema" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ7-We2ZvMbCDuAx9GsDS9ydmlhnuMIaGJXIZNU12L63IvoAX4nfGy6dLdzPRGaVy_CUb0M_Mn5aNmFP68YSlpH9-29REC_xuUJnv2HMsGJx5.png" group-title="COSTA RICA",CR | TeleSistema
-http://primexclusive.day:80/1444576/5450985/26507
-#EXTINF:-1 tvg-id="" tvg-name="CR | Teleuno HD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfF4uLpSnXZP2BjVhn__YWUCy7wCGCFvk_LCTP8vV1d7YSGAOb1nbRsX3qrQ5xOokXD.png" group-title="COSTA RICA",CR | Teleuno HD
-http://primexclusive.day:80/1444576/5450985/26509
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Universal Crime HD℠" tvg-logo="https://www.universalplus.com/assets/logo_crime_hero.png" group-title="LAT PELICULAS CANALES",LAT | Universal Crime HD℠
+http://primexclusive.day:80/1444576/5450985/24789
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Universal Premier HD℠" tvg-logo="https://www.universalplus.com/assets/logo_premiere_hero.png" group-title="LAT PELICULAS CANALES",LAT | Universal Premier HD℠
+http://primexclusive.day:80/1444576/5450985/24791
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Universal Reality HD℠" tvg-logo="https://www.universalplus.com/assets/logo_reality_hero.png" group-title="LAT PELICULAS CANALES",LAT | Universal Reality HD℠
+http://primexclusive.day:80/1444576/5450985/24790
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Universal TV HD℠" tvg-logo="https://image.mypanel.cc/?img=http://stalkertvlatinoplay.com/LOGOS/CINE/UNIVERSALTV.png" group-title="LAT PELICULAS CANALES",LAT | Universal TV HD℠
+http://primexclusive.day:80/1444576/5450985/18985
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Warner Channel HD℠" tvg-logo="https://static.epg.best/co/WarnerChannelAndes.co.png" group-title="LAT PELICULAS CANALES",LAT | Warner Channel HD℠
+http://primexclusive.day:80/1444576/5450985/18998
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Univision Tampa" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision Tampa
+http://primexclusive.day:80/1444576/5450985/405473
+#EXTINF:-1 tvg-id="COVID19" tvg-name="LAT |  Univision 24/7 HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision 24/7 HD
+http://primexclusive.day:80/1444576/5450985/14589
+#EXTINF:-1 tvg-id="" tvg-name="LAT |  Univision 24/7 Miami HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision 24/7 Miami HD
+http://primexclusive.day:80/1444576/5450985/14595
+#EXTINF:-1 tvg-id="UnivisionKUVN.us" tvg-name="LAT | Univision 24/7 Los Angeles" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision 24/7 Los Angeles
+http://primexclusive.day:80/1444576/5450985/229381
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT |  Univision Network HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision Network HD
+http://primexclusive.day:80/1444576/5450985/14602
+#EXTINF:-1 tvg-id="WLIIUnivision.pr" tvg-name="LAT |  Univision11 Puerto Rico - WLII" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision11 Puerto Rico - WLII
+http://primexclusive.day:80/1444576/5450985/14608
+#EXTINF:-1 tvg-id="UnivisionKTVW.us" tvg-name="LAT |  Univision13 Phoenix HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision13 Phoenix HD
+http://primexclusive.day:80/1444576/5450985/14594
+#EXTINF:-1 tvg-id="UnivisionKDTV.us" tvg-name="LAT |  Univision14 San Francisco HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision14 San Francisco HD
+http://primexclusive.day:80/1444576/5450985/14598
+#EXTINF:-1 tvg-id="UnivisionKUVS.us" tvg-name="LAT |  Univision19 Modesto HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision19 Modesto HD
+http://primexclusive.day:80/1444576/5450985/14603
+#EXTINF:-1 tvg-id="UnivisionKUVN.us" tvg-name="LAT |  Univision23 Dallas HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision23 Dallas HD
+http://primexclusive.day:80/1444576/5450985/14601
+#EXTINF:-1 tvg-id="UnivisionWLTV.us" tvg-name="LAT |  Univision23 Miami HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision23 Miami HD
+http://primexclusive.day:80/1444576/5450985/14600
+#EXTINF:-1 tvg-id="UnivisionWUVG.us" tvg-name="LAT |  Univision34 Atlanta HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision34 Atlanta HD
+http://primexclusive.day:80/1444576/5450985/14590
+#EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="LAT |  Univision34 Los Angeles HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision34 Los Angeles HD
+http://primexclusive.day:80/1444576/5450985/14605
+#EXTINF:-1 tvg-id="UnivisionWXTV.us" tvg-name="LAT |  Univision41 New York HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision41 New York HD
+http://primexclusive.day:80/1444576/5450985/14606
+#EXTINF:-1 tvg-id="UNIMASKNIC.us" tvg-name="LAT |  Univision41 San Antonio - KWEX" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision41 San Antonio - KWEX
+http://primexclusive.day:80/1444576/5450985/14597
+#EXTINF:-1 tvg-id="UnivisionKXLN.us" tvg-name="LAT |  Univision45 Houston HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision45 Houston HD
+http://primexclusive.day:80/1444576/5450985/14604
+#EXTINF:-1 tvg-id="UnivisionKUVE.us" tvg-name="LAT |  Univision46 Green Valley HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision46 Green Valley HD
+http://primexclusive.day:80/1444576/5450985/14596
+#EXTINF:-1 tvg-id="UnivisionWQHS.us" tvg-name="LAT |  Univision61 Cleveland - WQHS" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision61 Cleveland - WQHS
+http://primexclusive.day:80/1444576/5450985/14592
+#EXTINF:-1 tvg-id="UnivisionKAKW.us" tvg-name="LAT |  Univision62 Austin HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision62 Austin HD
+http://primexclusive.day:80/1444576/5450985/14591
+#EXTINF:-1 tvg-id="" tvg-name="LAT |  Univision65 Philadelphia HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision65 Philadelphia HD
+http://primexclusive.day:80/1444576/5450985/14593
+#EXTINF:-1 tvg-id="UnivisionWGBO.us" tvg-name="LAT |  Univision66 Chicago HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT |  Univision66 Chicago HD
+http://primexclusive.day:80/1444576/5450985/14599
+#EXTINF:-1 tvg-id="UnivisionTLnovelas.us" tvg-name="LAT | Univision TLNovelas" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision TLNovelas
+http://primexclusive.day:80/1444576/5450985/14630
+#EXTINF:-1 tvg-id="UniMasWFDCDT4.us" tvg-name="LAT | Univision14 Washington HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision14 Washington HD
+http://primexclusive.day:80/1444576/5450985/238165
+#EXTINF:-1 tvg-id="UnivisionKFTV.us" tvg-name="LAT | Univision21 Fresno/Visalia HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision21 Fresno/Visalia HD
+http://primexclusive.day:80/1444576/5450985/235421
+#EXTINF:-1 tvg-id="" tvg-name="LAT | Univision48 McAllen-Texas" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision48 McAllen-Texas
+http://primexclusive.day:80/1444576/5450985/256555
+#EXTINF:-1 tvg-id="COVID19" tvg-name="LAT | Univision51 Seattle HD" tvg-logo="https://i.ibb.co/6b1NMSL/Univision.png" group-title="USA UNIVISION LOCALES",LAT | Univision51 Seattle HD
+http://primexclusive.day:80/1444576/5450985/111521
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo '70s" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo '70s
+http://primexclusive.day:80/1444576/5450985/370262
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo '80s" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo '80s
+http://primexclusive.day:80/1444576/5450985/370261
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo '90s" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo '90s
+http://primexclusive.day:80/1444576/5450985/370260
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo 2K" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo 2K
+http://primexclusive.day:80/1444576/5450985/370259
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo Country" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo Country
+http://primexclusive.day:80/1444576/5450985/370258
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo Hip-Hop" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo Hip-Hop
+http://primexclusive.day:80/1444576/5450985/370257
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo Pop" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo Pop
+http://primexclusive.day:80/1444576/5450985/370256
+#EXTINF:-1 tvg-id="" tvg-name="US | Vevo R&B" tvg-logo="https://i.ibb.co/nnjjL2f/Vevo.png" group-title="USA MUSIC CHANNELS",US | Vevo R&B
+http://primexclusive.day:80/1444576/5450985/370255
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE 60s & 70s Groove" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE 60s & 70s Groove
+http://primexclusive.day:80/1444576/5450985/370501
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE 80s Flashback" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE 80s Flashback
+http://primexclusive.day:80/1444576/5450985/370500
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE 90s Throwback" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE 90s Throwback
+http://primexclusive.day:80/1444576/5450985/370499
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Celebrates" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Celebrates
+http://primexclusive.day:80/1444576/5450985/370498
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Classic Country" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Classic Country
+http://primexclusive.day:80/1444576/5450985/370497
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Country Today" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Country Today
+http://primexclusive.day:80/1444576/5450985/370496
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Hip-Hop Evolution" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Hip-Hop Evolution
+http://primexclusive.day:80/1444576/5450985/370495
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Hits" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Hits
+http://primexclusive.day:80/1444576/5450985/370494
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Icons" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Icons
+http://primexclusive.day:80/1444576/5450985/370493
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Nuevo Latino" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Nuevo Latino
+http://primexclusive.day:80/1444576/5450985/370491
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE R&B Classic Jams" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE R&B Classic Jams
+http://primexclusive.day:80/1444576/5450985/370490
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE R&B Feels" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE R&B Feels
+http://primexclusive.day:80/1444576/5450985/370489
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Rap Game" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Rap Game
+http://primexclusive.day:80/1444576/5450985/370488
+#EXTINF:-1 tvg-id="" tvg-name="US | XITE Rock x Metal" tvg-logo="https://i.ibb.co/D1Sf6xj/Xite.png" group-title="USA MUSIC CHANNELS",US | XITE Rock x Metal
+http://primexclusive.day:80/1444576/5450985/370487
+#EXTINF:-1 tvg-id="MusicChoice-90s.us" tvg-name="US-Music Choice | 90's" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | 90's
+http://primexclusive.day:80/1444576/5450985/25383
+#EXTINF:-1 tvg-id="MusicChoice-Alternative.us" tvg-name="US-Music Choice | Alternative" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Alternative
+http://primexclusive.day:80/1444576/5450985/25384
+#EXTINF:-1 tvg-id="MusicChoice-DanceAndEDM.us" tvg-name="US-Music Choice | Dance & EDM" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Dance & EDM
+http://primexclusive.day:80/1444576/5450985/25386
+#EXTINF:-1 tvg-id="MusicChoice-Gospel.us" tvg-name="US-Music Choice | Gospel" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Gospel
+http://primexclusive.day:80/1444576/5450985/235383
+#EXTINF:-1 tvg-id="MusicChoice-Hip-HopandRandB.us" tvg-name="US-Music Choice | Hip-Hop & R&B HD" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Hip-Hop & R&B HD
+http://primexclusive.day:80/1444576/5450985/25387
+#EXTINF:-1 tvg-id="MusicChoiceHitList.us" tvg-name="US-Music Choice | Hit List" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Hit List
+http://primexclusive.day:80/1444576/5450985/25388
+#EXTINF:-1 tvg-id="MusicChoice-PopHits.us" tvg-name="US-Music Choice | Pop Hits" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Pop Hits
+http://primexclusive.day:80/1444576/5450985/25393
+#EXTINF:-1 tvg-id="MusicChoice-PopLatino.us" tvg-name="US-Music Choice | Pop Latino" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Pop Latino
+http://primexclusive.day:80/1444576/5450985/25394
+#EXTINF:-1 tvg-id="MusicChoice-RandBSoul.us" tvg-name="US-Music Choice | R&B/Soul" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | R&B/Soul
+http://primexclusive.day:80/1444576/5450985/25395
+#EXTINF:-1 tvg-id="MusicChoice-Rap.us" tvg-name="US-Music Choice | Rap" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Rap
+http://primexclusive.day:80/1444576/5450985/25396
+#EXTINF:-1 tvg-id="MusicChoice-Rock.us" tvg-name="US-Music Choice | Rock" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Rock
+http://primexclusive.day:80/1444576/5450985/25397
+#EXTINF:-1 tvg-id="MusicChoice-Romances.us" tvg-name="US-Music Choice | Romance" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Romance
+http://primexclusive.day:80/1444576/5450985/25391
+#EXTINF:-1 tvg-id="MusicChoice-TeenBeats.us" tvg-name="US-Music Choice | Teen Beats" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Teen Beats
+http://primexclusive.day:80/1444576/5450985/25398
+#EXTINF:-1 tvg-id="MusicChoice-TodaysCountry.us" tvg-name="US-Music Choice | Todays Country" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Todays Country
+http://primexclusive.day:80/1444576/5450985/25399
+#EXTINF:-1 tvg-id="MusicChoice-ToddlerTunes.us" tvg-name="US-Music Choice | Toddler Tunes" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Toddler Tunes
+http://primexclusive.day:80/1444576/5450985/25400
+#EXTINF:-1 tvg-id="MusicChoice-Tropicales.us" tvg-name="US-Music Choice | Tropicales" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Tropicales
+http://primexclusive.day:80/1444576/5450985/25401
+#EXTINF:-1 tvg-id="MusicChoice-Y2K.us" tvg-name="US-Music Choice | Y2K" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Y2K
+http://primexclusive.day:80/1444576/5450985/25402
+#EXTINF:-1 tvg-id="MusicChoice-YachtRock.us" tvg-name="US-Music Choice | Yacht Rock" tvg-logo="https://i.ibb.co/h9F2k59/Music-Choice.png" group-title="USA MUSIC CHANNELS",US-Music Choice | Yacht Rock
+http://primexclusive.day:80/1444576/5450985/316230
+#EXTINF:-1 tvg-id="StingrayClassicRock.us" tvg-name="US-Music Stingray | Classic Rock" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Classic Rock
+http://primexclusive.day:80/1444576/5450985/316350
+#EXTINF:-1 tvg-id="StingrayEasyListening.us" tvg-name="US-Music Stingray | Easy Listening" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Easy Listening
+http://primexclusive.day:80/1444576/5450985/316351
+#EXTINF:-1 tvg-id="StingrayFlashback70s.us" tvg-name="US-Music Stingray | Flashback 70's" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Flashback 70's
+http://primexclusive.day:80/1444576/5450985/316353
+#EXTINF:-1 tvg-id="StingrayHipHop.us" tvg-name="US-Music Stingray | Hip Hop" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Hip Hop
+http://primexclusive.day:80/1444576/5450985/316359
+#EXTINF:-1 tvg-id="StingrayHotCountry.us" tvg-name="US-Music Stingray | Hot Country" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Hot Country
+http://primexclusive.day:80/1444576/5450985/316360
+#EXTINF:-1 tvg-id="StingrayNothinBut90s.us" tvg-name="US-Music Stingray | Nothin But 90's" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Nothin But 90's
+http://primexclusive.day:80/1444576/5450985/316361
+#EXTINF:-1 tvg-id="StingrayPopAdult.us" tvg-name="US-Music Stingray | Pop Adult" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Pop Adult
+http://primexclusive.day:80/1444576/5450985/316362
+#EXTINF:-1 tvg-id="StingrayRememberthe80s.us" tvg-name="US-Music Stingray | Remember The 80's" tvg-logo="https://i.ibb.co/F3GMXJK/Stingray.png" group-title="USA MUSIC CHANNELS",US-Music Stingray | Remember The 80's
+http://primexclusive.day:80/1444576/5450985/316352
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 1 (90s Reloaded 2008)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 1 (90s Reloaded 2008)
+http://primexclusive.day:80/1444576/5450985/25366
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 10 (Soundtrack)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 10 (Soundtrack)
+http://primexclusive.day:80/1444576/5450985/25375
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 11 (Rock latino)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 11 (Rock latino)
+http://primexclusive.day:80/1444576/5450985/25376
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 12 (Onda disco)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 12 (Onda disco)
+http://primexclusive.day:80/1444576/5450985/25377
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 13 (Exitos en español)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 13 (Exitos en español)
+http://primexclusive.day:80/1444576/5450985/25378
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 14-1 (Rock edition CD 1)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 14-1 (Rock edition CD 1)
+http://primexclusive.day:80/1444576/5450985/25379
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 14-2 (Rock edition CD 2)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 14-2 (Rock edition CD 2)
+http://primexclusive.day:80/1444576/5450985/25380
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 2 (Pop eurodance 90s)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 2 (Pop eurodance 90s)
+http://primexclusive.day:80/1444576/5450985/25367
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 4 (90s)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 4 (90s)
+http://primexclusive.day:80/1444576/5450985/25369
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 5 (Rock Pop 90s)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 5 (Rock Pop 90s)
+http://primexclusive.day:80/1444576/5450985/25370
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Classic Project 8 (Español)" tvg-logo="https://i.ibb.co/s17Fdhh/The-Classic-Project.png" group-title="USA MUSIC CHANNELS",US-Music | Classic Project 8 (Español)
+http://primexclusive.day:80/1444576/5450985/25373
+#EXTINF:-1 tvg-id="CMC.us" tvg-name="US-Music | CMC USA" tvg-logo="https://image.roku.com/developer_channels/prod/7bff83a8a5663128d3be1e4dbfd1f265f95120f1d1edcece4af75621f39d7fb7.png" group-title="USA MUSIC CHANNELS",US-Music | CMC USA
+http://primexclusive.day:80/1444576/5450985/254224
+#EXTINF:-1 tvg-id="CMTMusic.us" tvg-name="US-Music | CMT Music" tvg-logo="https://i.ibb.co/xSB5Gpw/CMT.png" group-title="USA MUSIC CHANNELS",US-Music | CMT Music
+http://primexclusive.day:80/1444576/5450985/266903
+#EXTINF:-1 tvg-id="" tvg-name="US-Music | Concert Channel HD (CO)" tvg-logo="https://i.ibb.co/C7Gwzp1/Concert-HD.png" group-title="USA MUSIC CHANNELS",US-Music | Concert Channel HD (CO)
+http://primexclusive.day:80/1444576/5450985/25381
+#EXTINF:-1 tvg-id="" tvg-name="CR | Tigo Sports" tvg-logo="https://i.ytimg.com/vi/xtsZpEnlmmI/maxresdefault.jpg" group-title="COSTA RICA",CR | Tigo Sports
+http://primexclusive.day:80/1444576/5450985/320010
+#EXTINF:-1 tvg-id="" tvg-name="CR | 88 Stereo HD" tvg-logo="https://pwaimg.listenlive.co/88_STEREO_1337791_config_favicon_1495129137.png" group-title="COSTA RICA",CR | 88 Stereo HD
+http://primexclusive.day:80/1444576/5450985/26485
+#EXTINF:-1 tvg-id="" tvg-name="CR | Agrotendencia TV UHD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/nj6QEk96JPNr6bYWtvlG7CkX19NdCKzwZdebgs7L4gUpndQ0xn7ACu349UnPfSd-PDK-U46xgPkYYKIGyrxG6lTqOMXyWycVuJcMQ2ZZyb4.png" group-title="COSTA RICA",CR | Agrotendencia TV UHD
+http://primexclusive.day:80/1444576/5450985/26486
 #EXTINF:-1 tvg-id="" tvg-name="CR | Trece" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2017_12/large.TreceCostaRica-2017-rec.png.3d4c4ceb26b7c82b2b437fe6cc3f751e.png" group-title="COSTA RICA",CR | Trece
 http://primexclusive.day:80/1444576/5450985/26511
 #EXTINF:-1 tvg-id="" tvg-name="CR | TVN Canal 14 HD" tvg-logo="https://i.ytimg.com/vi/xtsZpEnlmmI/maxresdefault.jpg" group-title="COSTA RICA",CR | TVN Canal 14 HD
@@ -2228,3 +2384,13 @@ http://primexclusive.day:80/1444576/5450985/256556
 http://primexclusive.day:80/1444576/5450985/14565
 #EXTINF:-1 tvg-id="TelemundoKUTU.us" tvg-name="LAT | Telemundo Tulsa - KUTU" tvg-logo="https://i.ibb.co/hfcRKfN/Telemundo.png" group-title="USA TELEMUNDO LOCALES",LAT | Telemundo Tulsa - KUTU
 http://primexclusive.day:80/1444576/5450985/372223
+#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 6 HD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0GhUbr69a8F4yui-GBJupEVh9v_Gw1-sGKp_F5S4kq6hYZz2ibco9dHb3VuckJnUi.png" group-title="COSTA RICA",CR | Repretel 6 HD
+http://primexclusive.day:80/1444576/5450985/26501
+#EXTINF:-1 tvg-id="" tvg-name="CR | Repretel 6 SD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWX3dO1LrqBN1k1_iMCELtN0GhUbr69a8F4yui-GBJupEVh9v_Gw1-sGKp_F5S4kq6hYZz2ibco9dHb3VuckJnUi.png" group-title="COSTA RICA",CR | Repretel 6 SD
+http://primexclusive.day:80/1444576/5450985/26502
+#EXTINF:-1 tvg-id="" tvg-name="CR | Telered" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/nxmxeh-XjazFGfSOa7shcAxK4G7cvMIH22ENwigPT5o9qWJFZRJe8adPGGSwrtSG2uIrsMqNENUVn4TDLUuWAjXQX5IFw6t2ACdgw6ZgVmtfGw-hTB5Ij9GA-Rt1SPHT.png" group-title="COSTA RICA",CR | Telered
+http://primexclusive.day:80/1444576/5450985/26506
+#EXTINF:-1 tvg-id="" tvg-name="CR | TeleSistema" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Bp-vRtZEje6kFpdMZzWxZ7-We2ZvMbCDuAx9GsDS9ydmlhnuMIaGJXIZNU12L63IvoAX4nfGy6dLdzPRGaVy_CUb0M_Mn5aNmFP68YSlpH9-29REC_xuUJnv2HMsGJx5.png" group-title="COSTA RICA",CR | TeleSistema
+http://primexclusive.day:80/1444576/5450985/26507
+#EXTINF:-1 tvg-id="" tvg-name="CR | Teleuno HD" tvg-logo="https://image.mypanel.cc/?img=http://dnslivetv.online:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWViL07s5SzmfV_3vRsNhGfF4uLpSnXZP2BjVhn__YWUCy7wCGCFvk_LCTP8vV1d7YSGAOb1nbRsX3qrQ5xOokXD.png" group-title="COSTA RICA",CR | Teleuno HD
+http://primexclusive.day:80/1444576/5450985/26509
